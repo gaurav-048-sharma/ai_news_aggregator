@@ -301,8 +301,3 @@ The application features a dark-themed UI with visible AI/ML outputs:
 - **Trending Section** — Horizontally scrollable carousel with rank badges (#1 Top Story, #2 Hot, etc.).
 - **Skeleton Loading** — Shimmer animation placeholders while data loads.
 
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
